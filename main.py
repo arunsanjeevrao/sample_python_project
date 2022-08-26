@@ -10,3 +10,5 @@ print("The first 5 records in the table: \n", df.head())
 # New features
 print("The Number of Records in the table: ", len(df))
 print("\nSummary Statistics: \n\n", df.describe())
+print("\n\n")
+print("Shape of DataFrame": df.shape)
